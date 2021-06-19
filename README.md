@@ -1,5 +1,5 @@
-# Project 80
+# Project 82
 
-Barter System App, Stage 4
+Barter System App, Stage 6
 
-Added DrawerNavigator and Log-out functionality.
+Added Stack Navigator, UserDetailsScreen, MyBarters and [in database] created 'all_barters' collection.
